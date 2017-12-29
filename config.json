@@ -1,0 +1,16 @@
+{
+  "settings": {
+
+    "dropbox": false,
+
+    "webdav": false,
+
+    "gdrive": true,
+    "gdriveClientId": "273602244210-jmag07mcj9pvu1aslqvcj0eipf45935s.apps.googleusercontent.com",
+
+    "onedrive": false,
+
+    "cacheConfigSettings": false
+  },
+  "showOnlyFilesFromConfig": false
+}
